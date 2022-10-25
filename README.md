@@ -1,5 +1,5 @@
 
-# Exercicios-Java
+# Exercícios-Java
 
 UFRPE - DC - Licenciatura em Computação
 
